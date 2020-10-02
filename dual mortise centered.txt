@@ -1,0 +1,4 @@
+Tool 1, .5 in router bit
+cuts two .5 in x .625 in mortises .5 in apart
+The origin is centered on the x and y axes between the mortises
+the mortises are .8 in deep.
